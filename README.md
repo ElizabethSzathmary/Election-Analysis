@@ -15,25 +15,24 @@ The Colorado Board of Elections employee gave me the task to complete the electi
    
 ## Summary
 The analysis of the election show that:
-- There were "X" votes cast in the election.
+- There were 369, 711 votes cast in the election.
 - Candidates were
-   - Candidate 1
-   - Candidate 2
-   - Candidate 3
+   - Charles Casper Stockham
+   - Diana DeGette
+   - Raymon Anthony Doane
 - The candidate results were:
-   - Candidate 1 received X% of the vote, and y number of votes
-   - Candidate 1 received X% of the vote, and y number of votes
-   - Candidate 1 received X% of the vote, and y number of votes
+   - Charles Casper Stockham received 23.049% of the vote, and 85,213 number of votes
+   - Diana DeGette received 73.812% of the vote, and 272,892 number of votes
+   - Raymon Anthony Doane received 3.139% of the vote, and 11,606 number of votes
    
 ## Challenge Summary
 The analysis of the election show that:
-- There were "X" votes cast in the election.
-- Candidates were
-   - County 1
-   - County 2
-   - County 3
+- Counties were
+   - Jefferson 
+   - Denver 
+   - Arapahoe 
 - The candidate results were:
-   - Candidate 1 received X% of the vote, and y number of votes
-   - Candidate 1 received X% of the vote, and y number of votes
-   - Candidate 1 received X% of the vote, and y number of votes
+   - Jefferson  contributed 38,855 of the total votes
+   - Denver contributed 306,055 of the total votes
+   - Arapahoe contributed 24,801 of the total votes
   
